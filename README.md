@@ -8,7 +8,6 @@ This project implements an LSTM-based deep learning model to classify news artic
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
-- [License](#license)
 
 ---
 
